@@ -1,0 +1,1 @@
+# jatinjangir093-lgtm-python-basics-25BCON1380-struct-to-dict
